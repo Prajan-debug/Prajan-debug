@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prajan Hegde
-- 👀 I’m interested in PRogramming
-- 🌱 I’m currently learning Python, SQL, Webdesign, Javascript
+- 👀 I’m interested in Programming
+- 🌱 I’m currently working as a Software Engineer
 
 
 <!---
